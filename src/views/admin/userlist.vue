@@ -87,7 +87,7 @@ import axios from 'axios'
           confirmButtonText: '确定',
           callback: action => {
                 this.$router.push({
-                    path:'/junmall/#/admin'
+                    path:'/#/admin'
                    })
           }
         });

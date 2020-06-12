@@ -6,10 +6,7 @@ import VuelazyLoad from 'vue-lazyload'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import { currency } from '../src/util/currency'
-import { InfiniteScroll } from 'mint-ui';
 
-Vue.use(InfiniteScroll);
-//滚动加载插件
 //使用懒加载插件
 Vue.use(VuelazyLoad, {
 	loading: '/static/loading-svg/loading-bars.svg'

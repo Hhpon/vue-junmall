@@ -2,7 +2,7 @@
   <header class="header">
     <div class="navbar">
       <div class="navbar-left-container">
-        <a href="/junmall">
+        <a href="/">
           <img class="navbar-brand-logo" src="static/logo.png" />
         </a>
       </div>

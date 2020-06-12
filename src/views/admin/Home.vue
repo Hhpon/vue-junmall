@@ -5,7 +5,7 @@
         <el-col :span="16" class="logo">
           <span>
             <!-- 俊猫商城管理系统 -->
-            <a href="/junmall/#/Home/about">
+            <a href="/#/Home/about">
               <img src="static/adminlogo.png" />
             </a>
           </span>
